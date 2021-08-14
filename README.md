@@ -1,4 +1,5 @@
 # Insecticida-ajo
 Task Club #17: Biocontroladores caseros 
 body {
-background: #000;
+background: #000
+}
